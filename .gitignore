@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Pycharm
+**/.idea/
+
 # Distribution / packaging
 .Python
 build/
@@ -19,10 +22,12 @@ lib64/
 parts/
 sdist/
 var/
+output/
 wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
 MANIFEST
 
 # PyInstaller
